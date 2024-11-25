@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stefandragos05
 - 👀 I’m interested in algorithms and cybersecurity.
 - 🌱 I’m currently learning 'The C Programming Language' and 'The Linux Command Line'.
-- 💞️ I’m looking to collaborate on any project that fits my skills.
+- 💞️ I’m looking to collaborate on any project that matches my skills and interests.
 - 📫 How to reach me: via e-mail, stefan.dragos@hotmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like riding my bike.
